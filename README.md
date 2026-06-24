@@ -1,8 +1,7 @@
 # PropSpace - Property Listing Application
 
-**Project Status: ✅ COMPLETED**
 
-A full-stack real-time web application for listing, viewing, updating, and deleting properties for rent or sale.
+A full-stack real-time web application  where users can list, browse, search,updade and delete properties for rent,or sale.
 
 ## Tech Stack
 
